@@ -8,9 +8,18 @@
 	],
 	"task": [
 		{
-			"task_id": 2,
+			"task_id": 3,
 			"task_template_id": 1,
 			"title": "Zimmer aufräumen",
+			"description": "xxx",
+			"coins": 20,
+			"finished": null,
+			"verified": null
+		},
+		{
+			"task_id": 4,
+			"task_template_id": 2,
+			"title": "Spülmaschine ausräumen",
 			"description": "xxx",
 			"coins": 20,
 			"finished": null,
